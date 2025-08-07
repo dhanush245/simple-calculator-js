@@ -13,6 +13,8 @@
 ---
 
 ## 📸 Screenshot
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/629e8b04-b823-4207-aa1c-8bea196d149a" />
+
 
 
 
